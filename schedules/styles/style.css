@@ -1,0 +1,66 @@
+.red {
+    background-color: red;
+}
+
+.schedule-container {
+    margin-bottom: 5%;
+    width: 100%;
+    display: grid;
+    justify-content: center; 
+}
+
+.schedule-title {
+    font-size: 27px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.schedule-table {
+    text-align: center;
+}
+
+.table-responsive {   
+    height: 300px;
+    overflow: auto;
+}
+
+.schedule {
+    -webkit-user-drag: none;
+    user-select: none;
+}
+
+.schedule:hover {
+    border: 1px double rgba(38, 30, 112, 1);
+}
+
+.schedule-body {
+    -webkit-user-drag: none;
+    user-select: none;
+}
+
+.non-select {
+    user-select: none;
+}
+
+table {
+    -webkit-user-drag: none;
+    user-select: none;
+    font-family: 'Lato', sans-serif;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    min-width: 100px;
+    width: 150px;
+    word-wrap: break-word;
+}
+
+tr {
+    height: 25px;
+}
+
+td {
+    height: 30px;
+}

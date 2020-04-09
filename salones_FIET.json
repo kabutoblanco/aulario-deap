@@ -1,0 +1,116 @@
+{
+  "Hoja1": [
+    {
+      "CODIGO": "105",
+      "EDIFICIO": "IPET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "5"
+    },
+    {
+      "CODIGO": "221",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "222",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "224",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "225",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "226",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "227",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "229",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "230",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "231",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "234",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "236",
+      "EDIFICIO": "FIET",
+      "CUPO": "40",
+      "TIPO": "SALON",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "Sala 2",
+      "EDIFICIO": "FIET",
+      "CUPO": "18",
+      "TIPO": "LAB",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "Sala 4",
+      "EDIFICIO": "FIET",
+      "CUPO": "18",
+      "TIPO": "LAB",
+      "NIVEL": "5"
+    },
+    {
+      "CODIGO": "Sala 332",
+      "EDIFICIO": "FIET",
+      "CUPO": "18",
+      "TIPO": "LAB",
+      "NIVEL": "2"
+    },
+    {
+      "CODIGO": "Sala 333",
+      "EDIFICIO": "FIET",
+      "CUPO": "18",
+      "TIPO": "LAB",
+      "NIVEL": "2"
+    }
+  ]
+}
